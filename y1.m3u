@@ -6,8 +6,6 @@ https://live.euromediacenter.com/mkturk/tracks-v1a1/mono.m3u8
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 #EXTINF:-1,TRT DINCOCUK720
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1,BIEN X1
-https://corestream.d72377a9ds0ec71.cfd//beintv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,CARTOON NETWORK
 http://45.132.87.69:8080/cartoon_network/index.m3u8
 #EXTINF:-1,NEO
@@ -120,8 +118,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/6866/index.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="3922" tvg-logo="http://epg.one/img/3922.png" tvg-rec="3",National Geographic FHD TR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/6867/index.m3u8
-#EXTINF:0 group-title="Ulusal" tvg-id="88056" tvg-logo="http://epg.one/img/88056.png" tvg-rec="3",Uzman Filmcilik HD TR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/6872/index.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="3934" tvg-logo="http://epg.one/img/3934.png" tvg-rec="3",beIN Movies Premiere 2 HD TR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/6879/index.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="3935" tvg-logo="http://epg.one/img/3935.png" tvg-rec="3",beIN Movies Premiere HD TR
