@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,MK TURK
 https://live.euromediacenter.com/mkturk/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Balacan TV
+https://v2.catcast.tv/videos-new/ch50634/111020261554_374609/video.mp4
 #EXTINF:-1,Baby Shark TV 
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1, Baby TV en
