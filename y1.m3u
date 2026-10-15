@@ -3,10 +3,22 @@
 https://live.euromediacenter.com/mkturk/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Baby Shark TV 
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1, Baby TV en
+http://cdn11.quattre.com:1500/hls/babytv/index.m3u8
 #EXTINF:-1, Disney de
 https://s6.hopslan.com/disneyX/index.m3u8
 #EXTINF:-1, Tlc de
 https://s6.hopslan.com/tlcX/index.m3u8
+#EXTINF:-1, nationalgeo
+http://cdn11.quattre.com:1500/hls/nationalgeo/index.m3u8
+#EXTINF:-1, nat wild
+http://cdn10.quattre.com:1500/hls/nationalgeowild/index.m3u8
+#EXTINF:-1, disney jr esp
+http://cdn11.quattre.com:1500/hls/disneyjr/index.m3u8
+#EXTINF:-1, warner esp
+http://cdn10.quattre.com:1500/hls/warner/index.m3u8
+#EXTINF:-1, historia esp
+http://cdn10.quattre.com:1500/hls/historia/index.m3u8
 #EXTINF:-1,NATURE TIME 
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 #EXTINF:-1,TRT DINCOCUK720
