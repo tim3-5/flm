@@ -1,25 +1,20 @@
 #EXTM3U
-Ulusal
 #EXTINF:-1,MK TURK
 https://live.euromediacenter.com/mkturk/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Baby Shark TV 
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1, Disney de
+https://s6.hopslan.com/disneyX/index.m3u8
+#EXTINF:-1, Tlc de
+https://s6.hopslan.com/tlcX/index.m3u8
 #EXTINF:-1,NATURE TIME 
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 #EXTINF:-1,TRT DINCOCUK720
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,CARTOON NETWORK
 http://45.132.87.69:8080/cartoon_network/index.m3u8
-#EXTINF:-1,NEO
-https://edge2.taksimbilisim.com/neohaber/bant1/chunks.m3u8
-#EXTINF:-1,CGTN BELGESEL
-https://dogusdyg-drone.lg.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 #EXTINF:-1,SHOW MAX
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
-#EXTINF:-1,NAT GEO TR
-https://tr.livev.xyz/geo/tracks-v1a1/mono.m3u8
-#EXTINF:-1,NAT WILD TR
-https://tr.livev.xyz/wild/tracks-v1a1/mono.m3u8
-#EXTINF:-1,DISCOVERY TR
-https://tr.livev.xyz/discoc/tracks-v1a1/mono.m3u8
 #EXTINF:-1,CENNET MAHALLESI
 https://playlist.fasttvcdn.com/pl/3k4ks1xutgm1fve4w1r6vq/cennetmahallesi/playlist/0.m3u8
 #EXTINF:-1,DIGINET SINEMA
@@ -28,10 +23,6 @@ https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 #EXTINF:-1,CINE 5
 https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RELAX TV
-https://v2.catcast.tv/content/40761/index.m3u8?token=d2578188f578aaad04a9522e3c4cc66a
-#EXTINF:-1,BALACAN COCUK TV
-https://v2.catcast.tv/content/50634/index.m3u8?token=ea72608cfa6ead8e3c8faae45ac9eb37
 #EXTINF:-1,TV SABAN
 https://stream41.radyotelekom.com.tr/stream/m3u8/a94fc44623d98b825183db41afd87634/a94fc44623d98b825183db41afd87634.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnUM8m08vgAlmMJPftjZRQMLWbzlZO7wVDmGeSWK3mkEtmuHv04pxJLqskZSWeZyjZu7YUGeq9QDUZImbMD-MfTjR31xn-T4vp2RDtiKWP6Ap7b2SS7ZBmMecNDA0mVtqPC6zFEw49o9BOBvqCVNp0jD1-4nM4b0y8vTIxeaJdospWW_g/s1600/trtc%CC%A7o.webp" group-title="Çocuk",TRT ÇOCUK TR
@@ -51,7 +42,13 @@ https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="Ulusal" ,İZMİR TIME 35 TV
 https://cdn-time35tv.yayin.com.tr/time35tv/time35tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/879/420/png-clipart-film-video-production-television-graphy-cine-miscellaneous-label-thumbnail.png" group-title="Ulusal",SDM Sinema
+#EXTINF:-1 Discovery Italya
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 Bein Extra
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 Baby TV
+http://57.128.231.171:8080/310/index.m3u8
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="2600" tvg-logo="http://epg.one/img/2600.png" tvg-rec="3",ATV TR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/2261/index.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="2602" tvg-logo="http://epg.one/img/2602.png" tvg-rec="3",DMAX FHD TR
